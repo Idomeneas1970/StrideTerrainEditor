@@ -3,6 +3,8 @@ Stride Community Terrain Editor by Idomeneas
 
 Stride Community Terrain Editor for terrain creation and manipulation, and Texture blending/manipulation. Includes my Perlin noise functions, extensions to the Heightmap, Texture and Color[] classes and much much more.
 
+Feel free to reach me on discord @Idomeneas
+
 ![Stride Engine Editor](Intro1.png?raw=true "Stride Engine Editor")
 
 ### Getting Started:
